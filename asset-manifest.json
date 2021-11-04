@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/book-card-app/static/css/main.d8be792a.chunk.css",
+    "main.js": "/book-card-app/static/js/main.7686619e.chunk.js",
+    "main.js.map": "/book-card-app/static/js/main.7686619e.chunk.js.map",
+    "runtime-main.js": "/book-card-app/static/js/runtime-main.d8e508ed.js",
+    "runtime-main.js.map": "/book-card-app/static/js/runtime-main.d8e508ed.js.map",
+    "static/js/2.dc75dd2c.chunk.js": "/book-card-app/static/js/2.dc75dd2c.chunk.js",
+    "static/js/2.dc75dd2c.chunk.js.map": "/book-card-app/static/js/2.dc75dd2c.chunk.js.map",
+    "index.html": "/book-card-app/index.html",
+    "static/css/main.d8be792a.chunk.css.map": "/book-card-app/static/css/main.d8be792a.chunk.css.map",
+    "static/js/2.dc75dd2c.chunk.js.LICENSE.txt": "/book-card-app/static/js/2.dc75dd2c.chunk.js.LICENSE.txt",
+    "static/media/Moon.e736cdc2.png": "/book-card-app/static/media/Moon.e736cdc2.png",
+    "static/media/almond.faa92662.png": "/book-card-app/static/media/almond.faa92662.png",
+    "static/media/dontGoodbye.b89b5c29.png": "/book-card-app/static/media/dontGoodbye.b89b5c29.png",
+    "static/media/dreamDepart.02159427.png": "/book-card-app/static/media/dreamDepart.02159427.png",
+    "static/media/greenhouseEarth.79f965b6.png": "/book-card-app/static/media/greenhouseEarth.79f965b6.png",
+    "static/media/greenhouseEarth_detail.5fb0f4d5.jpg": "/book-card-app/static/media/greenhouseEarth_detail.5fb0f4d5.jpg",
+    "static/media/lifeIsPractice.01fe7038.png": "/book-card-app/static/media/lifeIsPractice.01fe7038.png",
+    "static/media/littleLadies.132d86d5.png": "/book-card-app/static/media/littleLadies.132d86d5.png",
+    "static/media/redhairAnne.714f9547.png": "/book-card-app/static/media/redhairAnne.714f9547.png",
+    "static/media/selltimeShop.1f3dad8d.png": "/book-card-app/static/media/selltimeShop.1f3dad8d.png",
+    "static/media/uncomfortConveni.9338eebb.png": "/book-card-app/static/media/uncomfortConveni.9338eebb.png",
+    "static/media/uncomfortConveni_detail.cf9295f8.jpg": "/book-card-app/static/media/uncomfortConveni_detail.cf9295f8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8e508ed.js",
+    "static/js/2.dc75dd2c.chunk.js",
+    "static/css/main.d8be792a.chunk.css",
+    "static/js/main.7686619e.chunk.js"
+  ]
+}
