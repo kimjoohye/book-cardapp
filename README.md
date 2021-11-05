@@ -7,3 +7,6 @@ React를 사용하여 만든 카드 앱입니다.
 
 ## 사용한 기술
 React, styled-components
+
+## 페이지 주소
+ https://kimjoohye.github.io/book-cardapp/
