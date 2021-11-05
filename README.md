@@ -7,4 +7,3 @@ React를 사용하여 만든 카드 앱입니다.
 
 ## 사용한 기술
 React, styled-components
->>>>>>> cb2c92cf2ad8821f9c5eafd5ef3914dd1aa85f64
