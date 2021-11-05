@@ -2,11 +2,7 @@
   "name": "card-app",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
   "homepage": "http://kimjoohye.github.io/book-cardapp",
-=======
-  "homepage": "http://kimjoohye.github.io/book-card-app",
->>>>>>> cb2c92cf2ad8821f9c5eafd5ef3914dd1aa85f64
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
