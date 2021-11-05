@@ -17,7 +17,7 @@ const Collection = () => {
                     number = {content.number} img={content.img} video={content.video}/>
                 </Route>
             })}
-            <Route path="/">
+            <Route path="/book-cardapp">
                 <Items>
                     {contents.map((content, idx) => {
                         return <Card content={content} key={idx}/>

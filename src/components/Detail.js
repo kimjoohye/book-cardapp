@@ -48,7 +48,7 @@ const Detail = props => {
                 </tr>
                 <tr>
                     <td colSpan="2" style={{ textAlign: 'center'}}>
-                        <Link to="/" onClick={() => {window.scrollTo(0,0)}}>
+                        <Link to="/book-cardapp" onClick={() => {window.scrollTo(0,0)}}>
                             <Button>홈으로</Button>
                         </Link>
                     </td>
